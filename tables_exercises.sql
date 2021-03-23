@@ -1,4 +1,4 @@
-xxxxxx
+xxxxxxx
 USE `employees`;
 
 show create database `employees`;
