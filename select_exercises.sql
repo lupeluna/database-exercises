@@ -61,3 +61,4 @@ select name
 
 -- f. All the albums with a genre of "Rock". Why do these query results not include albums with a genre of "Hard rock" or "Progressive rock"?  because they have different characters/.
 
+** adding new sql exercise
